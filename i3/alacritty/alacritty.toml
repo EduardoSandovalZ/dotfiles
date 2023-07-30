@@ -1,0 +1,40 @@
+import = [
+  "/home/eduardo/.config/alacritty/themes/themes/kanagawa_dragon.toml"
+]
+
+
+cursor.style = "Beam"
+
+
+window.dimensions.columns = 100
+window.dimensions.lines = 85
+window.padding.x = 0
+window.padding.y = 0
+window.dynamic_padding = false
+window.decorations = "full"
+window.startup_mode = "Windowed"
+window.opacity = 0.7
+
+scrolling.history = 10000
+scrolling.multiplier = 3
+
+font.normal.family = "Iosevka"
+font.normal.style = "Light"
+font.bold.family = "Iosevka"
+font.bold.style = "Medium"
+font.italic.family = "Iosevka"
+font.italic.style = "Light Italic"
+font.size = 14.0
+font.offset.x = 0
+font.offset.y = 0
+font.glyph_offset.x = 0
+font.glyph_offset.y = 0
+
+
+colors.draw_bold_text_with_bright_colors = false
+
+bell.animation = "EaseOutExpo"
+bell.color = "0xffffff"
+bell.duration = 0
+
+keyboard.bindings = []
