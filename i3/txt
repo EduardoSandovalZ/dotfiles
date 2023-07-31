@@ -1,1 +1,5 @@
+sudo apt-get install pulsemixer
+sudo modprobe hid-apple
+sudo timedatectl set-timezone America/Mexico_City
+sudo apt-get install feh
 
